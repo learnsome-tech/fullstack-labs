@@ -1,0 +1,3 @@
+First rotation success: true
+Replay detected: true
+Session killed: true

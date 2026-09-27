@@ -1,0 +1,3 @@
+Found input element: User Input
+Found submit button: button
+Missing modal found: false

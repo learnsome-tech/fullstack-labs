@@ -1,0 +1,3 @@
+User name: User-10
+Cache key: ["users","detail","10"]
+Total cached: 1

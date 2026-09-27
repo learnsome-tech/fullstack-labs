@@ -1,0 +1,4 @@
+Order status code: 201
+Order identifier: ord-9821
+Outbox event type: ORDER_CREATED
+Propagated trace: trace-4bf9

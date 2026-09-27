@@ -1,0 +1,4 @@
+Bad input valid: false
+Bad input error: Invalid email
+Good input valid: true
+Parsed user role: admin

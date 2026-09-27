@@ -1,0 +1,4 @@
+Bad config parsed: false
+Good config parsed: true
+Parsed port number: 8080
+Port type: number

@@ -1,0 +1,5 @@
+Valid success: true
+Parsed email: dev@acme.io
+Parsed age: 25
+Invalid success: false
+Error count: 2

@@ -1,0 +1,4 @@
+First dispatch: PROCESSED
+Replayed dispatch: SKIPPED_DUPLICATE
+Total processed count: 1
+Recorded order payload: order-99

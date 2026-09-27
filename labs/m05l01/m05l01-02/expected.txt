@@ -1,0 +1,4 @@
+Root span identifier: 00f067aa0ba902b7
+Child matches trace: true
+Child unique span: true
+Child span identifier: child-span-001

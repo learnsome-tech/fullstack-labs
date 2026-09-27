@@ -1,0 +1,4 @@
+Failed run rolled back: true
+Balance after failure: 200
+Committed run success: true
+Balance after success: 150

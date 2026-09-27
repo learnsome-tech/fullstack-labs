@@ -1,0 +1,4 @@
+Initial count: 1
+Success count: 2
+Rollback count: 2
+Active ids: 1,2

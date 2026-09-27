@@ -1,0 +1,3 @@
+Tampered verifier exchange: false
+Valid verifier exchange: true
+Generated challenge: 1ba7cacac791cb7c

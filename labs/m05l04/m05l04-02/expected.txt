@@ -1,0 +1,4 @@
+First request allowed: true
+Remaining capacity: 1
+Second request allowed: true
+Third request rejected: true

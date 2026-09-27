@@ -1,0 +1,3 @@
+Author can edit: true
+Stranger can edit: false
+Admin can edit: true

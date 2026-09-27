@@ -1,0 +1,4 @@
+Full status: ACTIVE
+Full stats: 42
+Degraded status: DEGRADED
+User preserved: Amara

@@ -1,0 +1,3 @@
+Log message: Fetching profile
+Log correlation: req-abc
+Outside context correlation: none

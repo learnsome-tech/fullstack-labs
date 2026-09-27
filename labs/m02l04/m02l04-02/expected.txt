@@ -1,0 +1,3 @@
+Status code: 422
+Field error: Invalid domain
+Total field errors: 1

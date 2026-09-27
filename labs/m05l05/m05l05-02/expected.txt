@@ -1,0 +1,4 @@
+Initial live: true
+Initial ready: true
+Shutdown ready: false
+Remaining requests: 0

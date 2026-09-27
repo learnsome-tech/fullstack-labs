@@ -1,0 +1,4 @@
+Anon call success: false
+Short input success: false
+Authed call success: true
+Caller user identifier: u1

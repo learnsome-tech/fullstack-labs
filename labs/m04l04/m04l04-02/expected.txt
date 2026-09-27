@@ -1,0 +1,3 @@
+Has shop item one: false
+Has blog news item: true
+Remaining cache keys: 1

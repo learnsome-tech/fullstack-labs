@@ -1,0 +1,4 @@
+Runner user: nodejs
+Runner size in megabytes: 95
+Megabytes saved: 1105
+Is non root user: true

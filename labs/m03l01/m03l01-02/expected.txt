@@ -1,0 +1,3 @@
+No cookie rejected: true
+Post without CSRF rejected: true
+Authenticated post user: Ada

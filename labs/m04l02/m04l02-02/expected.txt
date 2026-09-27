@@ -1,0 +1,3 @@
+Recovered count: 2
+First recovered event: Payment Confirmed
+Last recovered event: Dispatched

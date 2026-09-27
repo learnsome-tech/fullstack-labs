@@ -1,0 +1,3 @@
+Pruned count: 1
+Active count: 1
+Second pruned: 0

@@ -1,0 +1,4 @@
+Call one: NETWORK_ERROR
+Call two tripped: NETWORK_ERROR
+Circuit state: OPEN
+Call three fail fast: FAIL_FAST_OPEN
