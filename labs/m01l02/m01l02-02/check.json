@@ -1,0 +1,21 @@
+{
+  "lab": "m01l02-02",
+  "lesson": "m01l02",
+  "title": "Shared Schema Validation",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx shared_schema_validation.tsx",
+  "main": "shared_schema_validation.tsx",
+  "files": [
+    "run.sh",
+    "shared_schema_validation.tsx",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

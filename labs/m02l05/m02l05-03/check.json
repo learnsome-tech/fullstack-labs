@@ -1,0 +1,20 @@
+{
+  "lab": "m02l05-03",
+  "lesson": "m02l05",
+  "title": "Bff Aggregator",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "bff_aggregator.tsx",
+  "files": [
+    "bff_aggregator.tsx",
+    "setup.sh",
+    "tsconfig.json",
+    "view_model_shaper.tsx"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

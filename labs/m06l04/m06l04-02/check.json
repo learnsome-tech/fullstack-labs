@@ -1,0 +1,21 @@
+{
+  "lab": "m06l04-02",
+  "lesson": "m06l04",
+  "title": "Canary Stepper",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx canary_stepper.tsx",
+  "main": "canary_stepper.tsx",
+  "files": [
+    "canary_stepper.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

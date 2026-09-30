@@ -1,0 +1,20 @@
+{
+  "lab": "m02l02-03",
+  "lesson": "m02l02",
+  "title": "Cache Invalidation",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "cache_invalidation.tsx",
+  "files": [
+    "cache_invalidation.tsx",
+    "query_key_engine.tsx",
+    "setup.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

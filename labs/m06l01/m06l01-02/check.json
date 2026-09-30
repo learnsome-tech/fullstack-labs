@@ -1,0 +1,21 @@
+{
+  "lab": "m06l01-02",
+  "lesson": "m06l01",
+  "title": "Accessible Locators",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx accessible_locators.tsx",
+  "main": "accessible_locators.tsx",
+  "files": [
+    "accessible_locators.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

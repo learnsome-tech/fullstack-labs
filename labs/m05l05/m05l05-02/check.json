@@ -1,0 +1,21 @@
+{
+  "lab": "m05l05-02",
+  "lesson": "m05l05",
+  "title": "Sigterm Drain",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx sigterm_drain.tsx",
+  "main": "sigterm_drain.tsx",
+  "files": [
+    "run.sh",
+    "sigterm_drain.tsx",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

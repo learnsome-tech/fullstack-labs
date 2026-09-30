@@ -1,0 +1,21 @@
+{
+  "lab": "m01l03-02",
+  "lesson": "m01l03",
+  "title": "Pipeline Cache",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx pipeline_cache.tsx",
+  "main": "pipeline_cache.tsx",
+  "files": [
+    "pipeline_cache.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

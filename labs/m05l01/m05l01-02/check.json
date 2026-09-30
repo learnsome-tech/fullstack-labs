@@ -1,0 +1,21 @@
+{
+  "lab": "m05l01-02",
+  "lesson": "m05l01",
+  "title": "Traceparent Engine",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx traceparent_engine.tsx",
+  "main": "traceparent_engine.tsx",
+  "files": [
+    "run.sh",
+    "traceparent_engine.tsx",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

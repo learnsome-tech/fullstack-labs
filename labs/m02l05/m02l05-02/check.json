@@ -1,0 +1,21 @@
+{
+  "lab": "m02l05-02",
+  "lesson": "m02l05",
+  "title": "Bff Aggregator",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx bff_aggregator.tsx",
+  "main": "bff_aggregator.tsx",
+  "files": [
+    "bff_aggregator.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

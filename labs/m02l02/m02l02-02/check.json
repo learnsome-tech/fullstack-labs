@@ -1,0 +1,21 @@
+{
+  "lab": "m02l02-02",
+  "lesson": "m02l02",
+  "title": "Query Key Engine",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx query_key_engine.tsx",
+  "main": "query_key_engine.tsx",
+  "files": [
+    "query_key_engine.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

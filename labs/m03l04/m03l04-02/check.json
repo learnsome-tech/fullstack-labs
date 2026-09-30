@@ -1,0 +1,21 @@
+{
+  "lab": "m03l04-02",
+  "lesson": "m03l04",
+  "title": "Ownership Evaluator",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx ownership_evaluator.tsx",
+  "main": "ownership_evaluator.tsx",
+  "files": [
+    "ownership_evaluator.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

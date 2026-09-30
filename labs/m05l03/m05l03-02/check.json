@@ -1,0 +1,21 @@
+{
+  "lab": "m05l03-02",
+  "lesson": "m05l03",
+  "title": "Circuit Tripper",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx circuit_tripper.tsx",
+  "main": "circuit_tripper.tsx",
+  "files": [
+    "circuit_tripper.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

@@ -1,0 +1,21 @@
+{
+  "lab": "m02l01-02",
+  "lesson": "m02l01",
+  "title": "Contract Validator",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx contract_validator.tsx",
+  "main": "contract_validator.tsx",
+  "files": [
+    "contract_validator.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

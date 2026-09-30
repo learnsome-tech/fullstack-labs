@@ -1,0 +1,21 @@
+{
+  "lab": "m01l05-02",
+  "lesson": "m01l05",
+  "title": "Transaction Rollback",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx transaction_rollback.tsx",
+  "main": "transaction_rollback.tsx",
+  "files": [
+    "run.sh",
+    "transaction_rollback.tsx",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

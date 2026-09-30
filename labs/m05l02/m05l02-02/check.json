@@ -1,0 +1,21 @@
+{
+  "lab": "m05l02-02",
+  "lesson": "m05l02",
+  "title": "Context Logger",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx context_logger.tsx",
+  "main": "context_logger.tsx",
+  "files": [
+    "context_logger.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

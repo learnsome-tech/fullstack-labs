@@ -1,0 +1,20 @@
+{
+  "lab": "m02l01-03",
+  "lesson": "m02l01",
+  "title": "Contract Validator",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "contract_validator.tsx",
+  "files": [
+    "contract_validator.tsx",
+    "response_guard.tsx",
+    "setup.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

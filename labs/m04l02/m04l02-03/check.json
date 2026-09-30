@@ -1,0 +1,20 @@
+{
+  "lab": "m04l02-03",
+  "lesson": "m04l02",
+  "title": "Sse Frame Formatter",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "sse_frame_formatter.tsx",
+  "files": [
+    "setup.sh",
+    "sse_frame_formatter.tsx",
+    "sse_recovery.tsx",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

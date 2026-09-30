@@ -1,0 +1,21 @@
+{
+  "lab": "m02l03-02",
+  "lesson": "m02l03",
+  "title": "Trpc Procedure Pipeline",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx trpc_procedure_pipeline.tsx",
+  "main": "trpc_procedure_pipeline.tsx",
+  "files": [
+    "run.sh",
+    "trpc_procedure_pipeline.tsx",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

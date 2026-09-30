@@ -1,0 +1,21 @@
+{
+  "lab": "m03l03-02",
+  "lesson": "m03l03",
+  "title": "Token Rotation Engine",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx token_rotation_engine.tsx",
+  "main": "token_rotation_engine.tsx",
+  "files": [
+    "run.sh",
+    "token_rotation_engine.tsx",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

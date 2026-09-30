@@ -1,0 +1,21 @@
+{
+  "lab": "m02l04-02",
+  "lesson": "m02l04",
+  "title": "Problem Normalizer",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx problem_normalizer.tsx",
+  "main": "problem_normalizer.tsx",
+  "files": [
+    "problem_normalizer.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

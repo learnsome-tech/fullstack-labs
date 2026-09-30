@@ -1,0 +1,20 @@
+{
+  "lab": "m04l04-03",
+  "lesson": "m04l04",
+  "title": "Tagged Cache Purge",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "tagged_cache_purge.tsx",
+  "files": [
+    "setup.sh",
+    "tagged_cache_purge.tsx",
+    "tsconfig.json",
+    "two_tier_cache.tsx"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

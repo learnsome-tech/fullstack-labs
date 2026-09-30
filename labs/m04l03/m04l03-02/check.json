@@ -1,0 +1,21 @@
+{
+  "lab": "m04l03-02",
+  "lesson": "m04l03",
+  "title": "Heartbeat Sweeper",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx heartbeat_sweeper.tsx",
+  "main": "heartbeat_sweeper.tsx",
+  "files": [
+    "heartbeat_sweeper.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

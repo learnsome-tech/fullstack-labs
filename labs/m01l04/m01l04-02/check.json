@@ -1,0 +1,21 @@
+{
+  "lab": "m01l04-02",
+  "lesson": "m01l04",
+  "title": "Env Validator",
+  "mode": "graded",
+  "runner": "tsx",
+  "command": "tsx env_validator.tsx",
+  "main": "env_validator.tsx",
+  "files": [
+    "env_validator.tsx",
+    "run.sh",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "tsx"
+  ],
+  "note": null
+}

@@ -1,0 +1,20 @@
+{
+  "lab": "m02l03-03",
+  "lesson": "m02l03",
+  "title": "Router Inference",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "router_inference.tsx",
+  "files": [
+    "router_inference.tsx",
+    "setup.sh",
+    "trpc_procedure_pipeline.tsx",
+    "tsconfig.json"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}
